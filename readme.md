@@ -1,0 +1,1 @@
+欢迎参加纷享销客前端面试，请实现以下产品特性，并将实现的工程提交到你github账号，例如 https://github.com/fancylife/recruit ，并建议使用github pages特性方便我们可以直接在线访问你的成果 ：） ，完成后将github地址回复至 zhangc@fxiaoke.com
