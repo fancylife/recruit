@@ -1,4 +1,4 @@
-欢迎参加纷享销客前端面试，请实现以下产品特性，并将实现的工程提交到你 `github` 账号，例如
+欢迎参加纷享销客前端面试，请实现[文档中的产品特性](https://shimo.im/docs/W8KtvOESbl8JPRDA)，并将实现的工程提交到你 `github` 账号，例如
  
  https://github.com/fancylife/recruit 
  
